@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olivyap8
-- 👀 I’m interested in data science and analytics.
+- 👀 I’m interested in data science and business analytics.
 - 🌱 I’m currently learning SEO, marketing analytics, and product management!
 
 <!---
