@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olivyap8
+- 👋 Hi, I’m Olivya.
 - 👀 I’m interested in data science and business analytics.
 - 🌱 I’m currently learning SEO, marketing analytics, and product management!
 
